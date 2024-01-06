@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="customSeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:minHeight">2dp</item>
+        <item name="android:maxHeight">4dp</item>
+    </style>
+
+    <style name="MainAppBackground" parent="Theme.MyMusic">
+        <item name="android:background">@drawable/main_bg</item>
+    </style>
+
+    <style name="SongScreenBackground" parent="Theme.MyMusic">
+        <item name="android:background">@drawable/song_screen</item>
+    </style>
+
+</resources>

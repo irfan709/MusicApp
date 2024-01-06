@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_background">#121212</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="appbar_color">#262626</color>
+
+    <color name="primary_light">#1976D2</color>
+    <color name="primary_dark_light">#0D47A1</color>
+    <color name="secondary_light">#FFA000</color>
+    <color name="secondary_dark_light">#FFC107</color>
+
+</resources>
